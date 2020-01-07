@@ -16,6 +16,31 @@ python -m pip install tensorflow
 #Or with GPU support
 python -m pip install tf-nightly
 ```
+
+### Install TensorFlow for Java
+
+* Add the dependency to the project's pom.xml file
+```
+<dependency>
+  <groupId>org.tensorflow</groupId>
+  <artifactId>tensorflow</artifactId>
+  <version>1.14.0</version>
+</dependency>
+```
+* For GPU support
+```
+<dependency>
+  <groupId>org.tensorflow</groupId>
+  <artifactId>libtensorflow</artifactId>
+  <version>1.14.0</version>
+</dependency>
+<dependency>
+  <groupId>org.tensorflow</groupId>
+  <artifactId>libtensorflow_jni_gpu</artifactId>
+  <version>1.14.0</version>
+</dependency>
+```
+
 ### Run Python code 
 ```
 #Active env
