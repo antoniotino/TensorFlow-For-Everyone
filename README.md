@@ -53,6 +53,6 @@ python3 <file-name>.py
 ### Examples
 1. Hello World in Python [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/HelloTensorFlow-Python/HelloWorld.py)
 
-1. Hello World in Java [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/HelloTensorFlow/src/main/java/com/antoniotino/helloworld/HelloTensorFlow.java)
+2. Hello World in Java [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/HelloTensorFlow/src/main/java/com/antoniotino/helloworld/HelloTensorFlow.java)
 
-2. Graph operation in Python [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/TensorFlowGraph-Python/Graph.py)
+3. Graph operation in Python [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/TensorFlowGraph-Python/Graph.py)
