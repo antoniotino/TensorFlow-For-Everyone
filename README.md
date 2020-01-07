@@ -24,7 +24,7 @@ python -m pip install tf-nightly
 <dependency>
   <groupId>org.tensorflow</groupId>
   <artifactId>tensorflow</artifactId>
-  <version>1.14.0</version>
+  <version>1.15.0</version>
 </dependency>
 ```
 * For GPU support
