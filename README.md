@@ -16,13 +16,12 @@ python -m pip install tensorflow
 #Or with GPU support
 python -m pip install tf-nightly
 ```
-### Run python code 
+### Run Python code 
 ```
 #Active env
 source ./env/bin/activate
 
 #Now, in env mode:
-#Open project directory 
-#Run
-python3 HelloWorld.p
+#Open project directory and run
+python3 <file-name>.py
 ```
