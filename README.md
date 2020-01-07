@@ -26,4 +26,6 @@ source ./env/bin/activate
 python3 <file-name>.py
 ```
 ### Examples
-1. HelloWorld! [code]()
+1. Hello World in Python[(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/HelloTensorFlow-Python/HelloWorld.py)
+
+2. Hello World in Java [(code)]()
