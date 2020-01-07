@@ -34,9 +34,10 @@ public class HelloTensorFlow {
                 /**
                 * There may be multiple output tensors, all of them must be closed  to prevent resource leaks.
                 */
-                Tensor output = s.runner().fetch("MyConst").run().get(0)) {
-                System.out.println(new String(output.bytesValue(), "UTF-8"));
-            }
+                Tensor output = s.runner().fetch("MyConst").run().get(0)
+                ) {
+                    System.out.println(new String(output.bytesValue(), "UTF-8"));
+                }
         }
     }
 }

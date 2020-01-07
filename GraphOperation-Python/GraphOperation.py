@@ -6,6 +6,9 @@
     		d = b + c
     		e = c + 2
     		a = d * e
+
+    Author: Antonio Tino
+    Date: 01/06/2020
 """
 #Import TensorFlow libraries
 import tensorflow as tf
