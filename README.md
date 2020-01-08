@@ -55,4 +55,6 @@ python3 <file-name>.py
 
 2. Hello World in Java [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/HelloTensorFlow-Java/src/main/java/com/antoniotino/helloworld/HelloTensorFlow.java)
 
-3. Graph operation in Python [(code)]()
+3. Graph operation in Python [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/GraphOperation-Python/GraphOperation.py)
+
+4. Graph operation in Java [(code)](https://github.com/antoniotino/TensorFlow-For-Everyone/blob/master/GraphOperation-Java/src/main/java/com/antoniotino/graphoperation/GraphOperation.java)
